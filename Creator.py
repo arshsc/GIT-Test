@@ -1,2 +1,2 @@
 def char_Creator():
-    pass
+    print("called creator function")
